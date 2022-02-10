@@ -1,0 +1,39 @@
+.block_sence .block-countdown-timer,
+.block_sence .countdown-ended {
+    font-size: 1.2em;
+    text-align: center;
+    display: block;
+}
+
+.block_sence .countdown-daystext {
+    font-size: 0.9em;
+}
+
+.block_sence .countdown-days,
+.block_sence .countdown-hours,
+.block_sence .countdown-minutes,
+.block_sence .countdown-seconds {
+    font-size: 1.2em;
+}
+
+.block_sence .countdown-separator {
+    padding: 0 2px;
+}
+
+.block_sence .style-corporate .countdown-days,
+.block_sence .style-corporate .countdown-hours,
+.block_sence .style-corporate .countdown-minutes,
+.block_sence .style-corporate .countdown-seconds {
+    background: #009688;
+    color: #fff;
+    padding: 3px;
+    border-radius: 4px;
+}
+.block_sence .style-corporate .countdown-daystext {
+    padding-left: 5px;
+    color: #009688;
+    font-weight: bolder;
+}
+.block_sence .style-corporate .countdown-separator {
+    font-size: 1.2em;
+}
